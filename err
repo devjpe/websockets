@@ -1,0 +1,134 @@
+            [resourceId] => 46
+            [remoteAddress] => 35.247.243.158
+            [httpHeadersReceived] => 1
+            [httpRequest] => GuzzleHttp\Psr7\Request Object
+                (
+                    [method:GuzzleHttp\Psr7\Request:private] => GET
+                    [requestTarget:GuzzleHttp\Psr7\Request:private] =>
+                    [uri:GuzzleHttp\Psr7\Request:private] => GuzzleHttp\Psr7\Uri Object
+                        (
+                            [scheme:GuzzleHttp\Psr7\Uri:private] => http
+                            [userInfo:GuzzleHttp\Psr7\Uri:private] =>
+                            [host:GuzzleHttp\Psr7\Uri:private] => 35.247.243.158
+                            [port:GuzzleHttp\Psr7\Uri:private] => 8080
+                            [path:GuzzleHttp\Psr7\Uri:private] => /
+                            [query:GuzzleHttp\Psr7\Uri:private] =>
+                            [fragment:GuzzleHttp\Psr7\Uri:private] =>
+                        )
+
+                    [headers:GuzzleHttp\Psr7\Request:private] => Array
+                        (
+                            [Host] => Array
+                                (
+                                    [0] => 35.247.243.158:8080
+                                )
+
+                            [Pragma] => Array
+                                (
+                                    [0] => no-cache
+                                )
+
+                            [Cache-Control] => Array
+                                (
+                                    [0] => no-cache
+                                )
+
+                            [User-Agent] => Array
+                                (
+                                    [0] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+                                )
+
+                            [Origin] => Array
+                                (
+                                    [0] => https://gg.devpremium.com
+                                )
+
+                            [Sec-WebSocket-Version] => Array
+                                (
+                                    [0] => 13
+                                )
+
+                            [Accept-Encoding] => Array
+                                (
+                                    [0] => gzip, deflate, br
+                                )
+
+                            [Accept-Language] => Array
+                                (
+                                    [0] => pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7
+                                )
+
+                            [Cookie] => Array
+                                (
+                                    [0] => _ga=GA1.2.140889332.1547662806; PHPSESSID=0tumoepb5dtruoido95jeirqt0
+                                )
+
+                            [Sec-WebSocket-Key] => Array
+                                (
+                                    [0] => /YXtY282PmyLBH3oe57IDA==
+                                )
+
+                            [Sec-WebSocket-Extensions] => Array
+                                (
+                                    [0] => permessage-deflate; client_max_window_bits
+                                )
+
+                            [X-Forwarded-For] => Array
+                                (
+                                    [0] => 177.204.4.109
+                                )
+
+                            [X-Forwarded-Host] => Array
+                                (
+                                    [0] => gg.devpremium.com
+                                )
+
+                            [X-Forwarded-Server] => Array
+                                (
+                                    [0] => gg.devpremium.com
+                                )
+
+                            [Upgrade] => Array
+                                (
+                                    [0] => WebSocket
+                                )
+
+                            [Connection] => Array
+                                (
+                                    [0] => Upgrade
+                                )
+
+                        )
+
+                    [headerNames:GuzzleHttp\Psr7\Request:private] => Array
+                        (
+                            [host] => Host
+                            [pragma] => Pragma
+                            [cache-control] => Cache-Control
+                            [user-agent] => User-Agent
+                            [origin] => Origin
+                            [sec-websocket-version] => Sec-WebSocket-Version
+                            [accept-encoding] => Accept-Encoding
+                            [accept-language] => Accept-Language
+                            [cookie] => Cookie
+                            [sec-websocket-key] => Sec-WebSocket-Key
+                            [sec-websocket-extensions] => Sec-WebSocket-Extensions
+                            [x-forwarded-for] => X-Forwarded-For
+                            [x-forwarded-host] => X-Forwarded-Host
+                            [x-forwarded-server] => X-Forwarded-Server
+                            [upgrade] => Upgrade
+                            [connection] => Connection
+                        )
+
+                    [protocol:GuzzleHttp\Psr7\Request:private] => 1.1
+                    [stream:GuzzleHttp\Psr7\Request:private] =>
+                )
+
+            [WebSocket] => stdClass Object
+                (
+                    [closing] =>
+                )
+
+        )
+
+)
